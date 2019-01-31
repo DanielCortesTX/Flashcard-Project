@@ -1,6 +1,5 @@
 * This application was initially created using create-react-native-app.
-* The application has been tested ONLY on snack.expo.io. The emulators provided for android worked for a time and then ceased and I 
-    do not have a mac to emulate an iphone. (the expo app on the phone would not work either).
+* This application was approved as part of Udacity's React nanodegree.
 * The app has been tested on snack.expo.io android and ios simulators and has functioned correctly thus far.
 * The application starts on a tab navigator which is rendered by a stacknavigator.
 * The application consists of five main views:
